@@ -1,0 +1,17 @@
+.feedback_btn:nth-child(2){
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.feedback_btn{
+   border-radius: 3px;
+}
+
+.feedback_btn:nth-child(1){
+   background-color: greenyellow;
+}
+
+.feedback_btn:nth-child(3){
+   background-color: red;
+   color: white;
+}
